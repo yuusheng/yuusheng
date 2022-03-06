@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: contact@yuusheng.cn
+- 😄 My personal site: yuusheng.cn
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-lier)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kevin-Lier/Kevin-Lier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
