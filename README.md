@@ -7,7 +7,7 @@
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuusheng&show_icons=true&hide=issues&hide_border=true" alt="yuusheng's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusheng&layout=compact&hide_border=true&hide=html,css" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuusheng&show_icons=true&hide_border=true" alt="yuusheng's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuusheng&layout=compact&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
