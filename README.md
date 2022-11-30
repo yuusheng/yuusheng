@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: contact@yuusheng.cn
+- 📫 How to reach me: hi@yuusheng.im
 - 😄 My personal site: www.yuusheng.cn
 
 
