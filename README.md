@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: hi@yuusheng.im
+- 🌱 I’m currently learning JavaScript and Rust
+- 📫 How to reach me: yuusheng7@gmail.com
 <!-- - 😄 My personal site: www.yuusheng.cn -->
 
 <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=yuusheng&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%23e76ce6%2C%20%23ff6bbb%2C%20%23ff838f%2C%20%23ffaa6c%2C%20%23ffd35e%2C%20%23f9f871)">
